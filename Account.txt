@@ -1,0 +1,8 @@
+Account Information
+Admin's Account:
+Username: admin
+Password:admin
+
+User's Account:
+Username: user
+Password:123
